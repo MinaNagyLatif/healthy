@@ -1,0 +1,102 @@
+.navbar {
+  overflow: hidden;
+  background-image: url(6.png);
+    transition: top 0.3s;
+
+
+
+}
+
+.navbar a {
+  float: center;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+
+.navbar a:hover {
+    background-color:   #008B8B;
+       
+}
+
+.footer-copyright {
+    background-image: url(9.png);
+    background-size: 100%;
+
+    }
+
+.main {
+        background-image: url(8.png);
+        background-size: 100%;
+
+
+}
+
+i {
+    color:  #9ACD32;
+    margin-right: 10px;
+}
+
+h4 {
+    align-items: center;
+    margin-bottom: 20px;
+    color: #D3D3D3;
+
+}
+
+li a {
+    color: #D3D3D3;
+}
+
+.fa-search {
+    color: black;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-height: 300px;
+  margin-bottom: 50px;
+  font-family: arial;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+  text-align: right;
+  margin-top: 0;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: green;
+  text-align: right;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+h3 {
+    margin-left: 50px;
+}
+.mai {
+    background-color: #FAF0E6;
+}
+
+.or {
+    margin-bottom: 25px;
+    color: #FF8C00;
+    margin-left: 50px;
+}
+
+.par {
+    margin-bottom: 35px;
+    margin-left: 50px;
+
+}
